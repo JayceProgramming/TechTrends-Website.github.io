@@ -1,0 +1,50 @@
+.navigation {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	width: 350px;
+	font-size: 40px;
+	background-color: black;
+	
+	
+	
+}
+
+li a {
+	background-color: black;
+	display: block;
+	border-color: black;
+	
+}
+
+h1 {color: white;}
+h1 {text-align:center;}
+body {background-color: tan;}
+li {color: white;}
+li {font-size: 35px;}
+li { padding: 0px;}
+li {font-family: 'Courier New', monospace;}
+dt {color: white;}
+dt {font-family: 'Courier New', monospace;}
+dt {font-size: 45px;}
+dd {color: white;}
+dd {font-size: 32px;}
+
+	
+#menu {
+	display: none;
+}
+table, th, td {
+  border:1px solid black;
+}
+
+button{
+	font-size = 100px;
+}
+
+
+#companyLocation{
+	border: 150; 
+	border-color: black;
+	border-width: 50px;
+}
